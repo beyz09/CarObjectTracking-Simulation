@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|c:\\users\\alper\\onedrive\\belgeler\\github\\carobjecttracking-simulation\\assets\\scripts\\tophareketsonsuz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tophareketsonsuz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,6 +26,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\assets\\scripts\\environmentcommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environmentcommunicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|c:\\users\\alper\\onedrive\\belgeler\\github\\carobjecttracking-simulation\\assets\\scripts\\carmanualcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carmanualcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|c:\\users\\alper\\onedrive\\belgeler\\github\\carobjecttracking-simulation\\assets\\scripts\\camerastreamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerastreamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\assets\\scripts\\cartargetfromyolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cartargetfromyolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\assets\\scripts\\udpreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\udpreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\assets\\scripts\\carfollowsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carfollowsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\assets\\scripts\\topzhareketi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\topzhareketi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\assets\\scripts\\carfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECC9C1-7503-6931-6255-15EF9E727886}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -39,6 +68,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "TopHareketSonsuz.cs",
               "DocumentMoniker": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\TopHareketSonsuz.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TopHareketSonsuz.cs",
@@ -47,10 +77,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T20:00:26.036Z",
+=======
+              "Title": "CarManualControl.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\CarManualControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarManualControl.cs",
+              "ToolTip": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\CarManualControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarManualControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:59:11.006Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
               "Title": "VeriAlici.cs",
               "DocumentMoniker": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\VeriAlici.cs",
@@ -97,10 +138,22 @@
               "ViewState": "AgIAAB8AAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T15:43:07.653Z"
+=======
+              "DocumentIndex": 4,
+              "Title": "CarFollowSphere.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\CarFollowSphere.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarFollowSphere.cs",
+              "ToolTip": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\CarFollowSphere.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarFollowSphere.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:31:36.215Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+<<<<<<< Updated upstream
               "Title": "EnvironmentCommunicator.cs",
               "DocumentMoniker": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\EnvironmentCommunicator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnvironmentCommunicator.cs",
@@ -109,6 +162,65 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T15:42:57.294Z"
+=======
+              "Title": "TopZHareketi.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\TopZHareketi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TopZHareketi.cs",
+              "ToolTip": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\TopZHareketi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TopZHareketi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:59:59.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarTargetFromYOLO.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\CarTargetFromYOLO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarTargetFromYOLO.cs",
+              "ToolTip": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\CarTargetFromYOLO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarTargetFromYOLO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA+wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:35:44.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraStreamer.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\CameraStreamer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraStreamer.cs",
+              "ToolTip": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\CameraStreamer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraStreamer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:21:38.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UDPReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\UDPReceiver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UDPReceiver.cs",
+              "ToolTip": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\UDPReceiver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UDPReceiver.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:03:18.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarFollower.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\CarFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarFollower.cs",
+              "ToolTip": "C:\\Users\\alper\\OneDrive\\Belgeler\\GitHub\\CarObjectTracking-Simulation\\Assets\\Scripts\\CarFollower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarFollower.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:54:02.511Z"
+>>>>>>> Stashed changes
             }
           ]
         }
