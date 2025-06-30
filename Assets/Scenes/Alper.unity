@@ -273,10 +273,15 @@ GameObject:
   - component: {fileID: 821641057}
   - component: {fileID: 821641056}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - component: {fileID: 821641061}
 =======
 >>>>>>> Stashed changes
   - component: {fileID: 821641060}
+=======
+  - component: {fileID: 821641060}
+  - component: {fileID: 821641061}
+>>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -365,9 +370,13 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 8.398565, y: -8.701735, z: -10.61}
 =======
   m_LocalPosition: {x: 7.07, y: 0.43826485, z: -10.74}
+>>>>>>> Stashed changes
+=======
+  m_LocalPosition: {x: 7.69, y: 0.43826485, z: -10.61}
 >>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -384,6 +393,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Script: {fileID: 11500000, guid: a338a103283f5c847aaa2363d9315c5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -391,11 +401,20 @@ MonoBehaviour:
   hiz: 0.5
 --- !u!54 &821641061
 Rigidbody:
+=======
+  m_Script: {fileID: 11500000, guid: 96807d650c34d684cac6cf64938976a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
+--- !u!114 &821641061
+MonoBehaviour:
+>>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 821641055}
+<<<<<<< Updated upstream
   serializedVersion: 4
   m_Mass: 1
   m_Drag: 0
@@ -711,6 +730,14 @@ MonoBehaviour:
   height: 240
   port: 5057
 >>>>>>> Stashed changes
+=======
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc8f59dd1566e4341aad396378f6fcb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 5
+>>>>>>> Stashed changes
 --- !u!1 &1649650466
 GameObject:
   m_ObjectHideFlags: 0
@@ -814,9 +841,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1649650466}
   m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fc02db95a7ab9a042be31fc5a56fec6b, type: 3}
+  m_Script: {fileID: 11500000, guid: 162ea70753ba1054e844e45a382a05bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
   target: {fileID: 2084981246}
   offset: {x: 0, y: 5, z: -7}
   followSpeed: 2
@@ -835,6 +863,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 883c626a9b5b94b5ca26f49def337de6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+  target: {fileID: 821641059}
+  offset: {x: 0, y: 20, z: 0}
+  followSpeed: 5
+>>>>>>> Stashed changes
 --- !u!1001 &1651754918
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -952,6 +985,7 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: 0e575142d167fc442bc0a82400509a5d, type: 2}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - target: {fileID: 114262248994821836, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
       propertyPath: port
       value: 2851
@@ -974,11 +1008,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 5746090318394418494, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
+=======
+    m_RemovedComponents:
+    - {fileID: 114748714990416534, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
+    - {fileID: 114419591656919258, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
+    - {fileID: 114262248994821836, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
+    - {fileID: 114492810067539268, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
+>>>>>>> Stashed changes
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1368537957082258, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
       insertIndex: -1
+<<<<<<< Updated upstream
       addedObject: {fileID: 2084981251}
     - targetCorrespondingSourceObject: {fileID: 1009353088136046, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
       insertIndex: -1
@@ -1013,6 +1055,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1009353088136046, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1433209425}
+>>>>>>> Stashed changes
+=======
+      addedObject: {fileID: 2115395495}
+    - targetCorrespondingSourceObject: {fileID: 1009353088136046, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2040014749}
 >>>>>>> Stashed changes
   m_SourcePrefab: {fileID: 100100000, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
 --- !u!1 &1651754919 stripped
@@ -1129,21 +1177,26 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!4 &2084981246 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4943192094783554, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
+--- !u!1 &2040014747 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1009353088136046, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
   m_PrefabInstance: {fileID: 1651754918}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 --- !u!114 &2084981251
 MonoBehaviour:
 =======
 --- !u!114 &2084981254
+=======
+--- !u!114 &2040014749
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 738005445}
   m_Enabled: 0
   m_EditorHideFlags: 0
@@ -1172,11 +1225,36 @@ MonoBehaviour:
   ekranOrtasiY: 120
   worldScale: 0.01
 --- !u!114 &2084981256
+=======
+  m_GameObject: {fileID: 2040014747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d719bf05c98f30e44a21d446c0db1235, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cam: {fileID: 2040014750}
+  sendWidth: 224
+  sendHeight: 224
+  ip: 127.0.0.1
+  port: 5005
+--- !u!20 &2040014750 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 20311496102731352, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
+  m_PrefabInstance: {fileID: 1651754918}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2115395493 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1368537957082258, guid: f9969a1c8e77ed84ba53ccfd84d33dfb, type: 3}
+  m_PrefabInstance: {fileID: 1651754918}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2115395495
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 738005445}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -1199,6 +1277,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   turnSpeed: 80
+=======
+  m_GameObject: {fileID: 2115395493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82589aa3d41e151489d79a87cafe2ce5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
+  turnSpeed: 60
+  listenPort: 5006
+  frameWidth: 224
+  frameHeight: 224
+>>>>>>> Stashed changes
 --- !u!1001 &2138642389554465800
 PrefabInstance:
 >>>>>>> Stashed changes
